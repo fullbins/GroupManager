@@ -31,7 +31,7 @@ Activate Anti-spam protection in your BM by this command :
 
 Made from the source code of [ Foodie 🇮🇳](t.me/foodiereborn)
 
-Special thanks to [this person](t.me/designerchampofficial) for helping me.
+Special thanks to [this person](t.me/Hunter_67) for helping me.
 
 Deploy a bot like me [now](www.github.com/fullbins/GroupManager)
 
@@ -39,7 +39,7 @@ Deploy a bot like me [now](www.github.com/fullbins/GroupManager)
 
 Click /help or Help button below to find out more about how to use me to my full potential.
 
- Add me to a group by clicking [here](http://t.me/tg_fullmanager_bot?startgroup=true).
+ Add me to a group by clicking [here](http://t.me/fullmanager_bot?startgroup=true).
 """
 
 
